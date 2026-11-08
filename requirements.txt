@@ -1,0 +1,6 @@
+sentence-transformers
+numpy
+groq
+networkx
+pydantic
+pytest
